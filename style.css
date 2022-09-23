@@ -1,0 +1,26 @@
+ul{
+    display: flex; 
+} 
+li{ 
+    display: block; 
+    list-style: none; 
+    margin-left: 130px;  
+    color:rgba(218, 60, 168, 0.957);
+    font-size: larger; 
+    border-radius: 7px; 
+    box-shadow: 5px 5px 5px 5px; 
+    width: 150px;  
+    height: 35px; 
+    text-align: center; 
+    }  
+a{ 
+        text-decoration: none; 
+        color: inherit;
+}  
+table{ 
+    display: block;
+    font-size: x-large;  
+    text-align: center;
+    margin-left: 500px; 
+    color: rgba(20, 19, 19, 0.957); 
+} 
